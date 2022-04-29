@@ -6,7 +6,7 @@ This repository contains a simple program for calculating the value of a loan. O
 - the interest rate (per annum);
 - whether the loan is continuously compounded or not.
 
-Is the loan is not continuously compounded, it is *discretely compounded*. Accordingly, the user will be prompted to specify the number of compounding periods. Note, all time units are expressed in terms of *years*.
+If the loan is not continuously compounded, it is *discretely compounded*. Accordingly, the user will be prompted to specify the number of compounding periods. Note, all time units are expressed in terms of *years*.
 
 With these inputs established, the user can then choose among the following options:
 
@@ -15,4 +15,4 @@ With these inputs established, the user can then choose among the following opti
 - calculate the lifetime of the loan with a specified, yearly repayment amount;
 - calculate the desired yearly repayment amount in order to pay off the loan after a specified time.
 
-For derivations of formulae used in the implementation of this program, see the online article hosted at the link below:
+For derivations of formulae used in the implementation of this program, see the online article [here.](https://kshkb.github.io/loan-analytics-article/valueofaloan.html)
